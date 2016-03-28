@@ -1,2 +1,7 @@
 # xxx
 acıklama
+Projemizin amacı
+
+
+
+
